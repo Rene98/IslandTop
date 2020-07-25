@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="IslandTop">
+    <output-path>$PROJECT_DIR$/out/artifacts/IslandTop</output-path>
+    <root id="archive" name="IslandTop.jar">
+      <element id="module-output" name="IslandTop" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+  name: IslandTop
+  main: me.renes.IslandTop.IslandTop
+  version: 1.0
+  depend:
+    - PlaceholderAPI
+    - ASkyBlock
+    - WildStacker
+  commands:
+    istop:
